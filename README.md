@@ -195,8 +195,16 @@ first registration to their site its limited period offer so what are waiting fo
 [Click here to visit JLCPCB.com](https://jlcpcb.com/IAT)
 
 
-![image](https://user-images.githubusercontent.com/19898602/129946936-1db41129-916f-4226-b542-68a53585740e.png)
+Secure the PCB board to the main yarn winding machine's base using nuts and bolts. Next, connect the stepper motor to the PCB board. 
+
+Now, grab your LCD screen and also wire that up to its respective connection points on the PCB board. Mount the LCD screen to the base of the machine. 
+
+You can now also wire up and mount a rotary knob next to the PCB. This will enable you to incrementally increase or reduce the winding speed during operation. 
 
 
 
+![image](https://user-images.githubusercontent.com/19898602/133439520-0d7d3409-5141-40fd-b73a-4b625d1be1cc.png)
+
+
+![MVI_0005](https://user-images.githubusercontent.com/19898602/133441043-0a800129-a74f-4d24-aa26-e889151cf024.gif)
 
